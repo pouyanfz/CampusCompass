@@ -1,4 +1,4 @@
-# Campus Compass 🧭 (InsightUBC)
+# Campus Compass 🧭
 
 A full stack web application for managing and querying large datasets of UBC building and room information, featuring an interactive React interface, Google Maps integration, and a RESTful API backend.
 
